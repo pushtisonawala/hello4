@@ -18,7 +18,7 @@ function App() {
       <br />
       <form action="#" onSubmit={handleSubmit} style={{ marginBottom: '20px' }}>
         <label htmlFor="name" style={{ fontSize: '18px', fontWeight: 'bold' }}>
-          Enter your name: &nbsp;
+          I will predict the future. Enter your name: &nbsp;
         </label>
         <input
           id="name"
